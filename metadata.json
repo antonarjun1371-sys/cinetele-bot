@@ -1,0 +1,8 @@
+{
+  "name": "Remix CineTele - Bot Telegram Nonton Film",
+  "description": "Platform manajemen dan live simulator bot Telegram untuk streaming dan nonton film dengan katalog lengkap, Force Subscribe, dan integrasi webhook bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
